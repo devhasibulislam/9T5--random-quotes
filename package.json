@@ -1,0 +1,9 @@
+{
+  "name": "random-quotes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "license": "MIT"
+}
