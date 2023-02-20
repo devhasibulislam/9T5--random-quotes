@@ -9,7 +9,7 @@
 const fs = require("fs");
 
 // internal import
-const randomDigit = require("./library/RandomDigit");
+const randomDigit = require("./library/randomDigit");
 
 const data = fs
   .readFileSync(`${__dirname}/data/Quotes.txt`, "utf8")
