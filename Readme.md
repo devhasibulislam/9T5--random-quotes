@@ -1,6 +1,6 @@
 # Watch the shorts
 
-> YouTube Shorts here: [Click Me](https://www.example.com)
+> YouTube Shorts here: [Click Me](https://youtube.com/shorts/xwDtXOVHN8k?feature=share)
 
 # Make it own
 
